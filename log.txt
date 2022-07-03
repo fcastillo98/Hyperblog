@@ -1,0 +1,47 @@
+commit 5606aa205f772199b4528ff7225e1e7a9c08a976
+Author: fedex <fcrangel98@gmail.com>
+Date:   Sat Jul 2 19:54:46 2022 -0600
+
+    Reemplazo de una version por otra de la historia
+
+commit 02aca1c611269f5e393e46b70da89b7de384ab5a
+Author: fedex <fcrangel98@gmail.com>
+Date:   Sat Jul 2 19:49:05 2022 -0600
+
+    Cambio de maestria
+
+commit 621b0434a8286e562082977b2db49b3500d98550
+Author: fedex <fcrangel98@gmail.com>
+Date:   Sat Jul 2 19:48:44 2022 -0600
+
+    Cambio de vida
+
+commit 995540d046aaf19183abc5434298501eef9c0c95
+Author: fedex <fcrangel98@gmail.com>
+Date:   Sat Jul 2 19:46:25 2022 -0600
+
+    Arranco mi proyecto real con html y css
+
+commit d122d8ce14ffa6653a62ba235a1131bfc8526bd0
+Author: fedex <fcrangel98@gmail.com>
+Date:   Sat Jul 2 18:26:56 2022 -0600
+
+    Se le agrego el cargo a la persona
+
+commit 39d4d23804aeef1981f78bdae7f27978f9a8ca12
+Author: fedex <fcrangel98@gmail.com>
+Date:   Sat Jul 2 18:23:29 2022 -0600
+
+    Agregamos un cambios a la estatura
+
+commit 2665a1d5e4331edde258b4ba18e8d581416896e7
+Author: fedex <fcrangel98@gmail.com>
+Date:   Sat Jul 2 18:18:10 2022 -0600
+
+    Se hicieron cambios en la historia
+
+commit 33ae65287658f767d0cf9141f257a2525a15c9cf
+Author: fedex <fcrangel98@gmail.com>
+Date:   Sat Jul 2 18:12:17 2022 -0600
+
+    Primer commit de este archivo
